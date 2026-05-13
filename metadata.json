@@ -1,8 +1,0 @@
-{
-  "name": "打磚塊專業版",
-  "description": "一款精緻的街機風格打磚塊遊戲，具有流暢的動畫和響應式控制。",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
